@@ -1,6 +1,7 @@
+# Blog-Website
 ## Overview
 
-Our Blog Website is a full-stack web application that allows users to create, read, update, and delete blog posts. It is built using the MERN stack, which includes the following technologies:<br />
+The Blog Website is a full-stack web application that allows users to create, read, update, and delete blog posts. It is built using the MERN stack, which includes the following technologies:<br />
 <br />
 - **MongoDB**: A NoSQL database for storing blog post data.<br />
 - **Express.js**: A backend web application framework for building RESTful APIs.<br />
@@ -8,9 +9,10 @@ Our Blog Website is a full-stack web application that allows users to create, re
 - **Node.js**: A JavaScript runtime environment for running server-side code.<br />
 <br />
 This project serves as a foundation for a feature-rich blog platform. Users can create accounts, post articles, add comments, and browse through a collection of engaging blog posts.<br />
-<br />
-## Features<br />
-<br />
+
+## Features
+
+
 Our Blog Website comes with a variety of features, including:<br />
 <br />
 - User registration and authentication.<br />
